@@ -22,6 +22,7 @@ VALUES
 (4, 17, "Julie", "julie3@gmail.com", 134500, 8180),
 (5, 26, "Charlie", "charlie5@gmail.com", 111500, 58110);
 
+
 SELECT * FROM user;
 SELECT name, age, followers
 FROM user 
