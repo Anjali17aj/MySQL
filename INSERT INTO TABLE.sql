@@ -20,7 +20,6 @@ VALUES
 (2, 20, "ASHWINI KUMAR", "helloashwini@gmail.com", 450, 88),
 (3, 40, "ANITA RAM", "sayhellotoanita@gmail.com", 150, 20);
 
-
 CREATE TABLE post (
 id INT PRIMARY KEY,
 content VARCHAR(100),
