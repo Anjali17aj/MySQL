@@ -19,3 +19,4 @@ content VARCHAR(100),
 user_id INT,
 FOREIGN KEY (user_id) REFERENCES user(id)
 );
+
