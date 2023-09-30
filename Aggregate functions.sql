@@ -13,6 +13,7 @@ CONSTRAINT age_check CHECK (age>=13),
 PRIMARY KEY(id)
 );
 
+
 INSERT INTO user
 (id, age, name, email, followers, following)
 VALUES
